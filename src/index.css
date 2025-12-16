@@ -1,0 +1,13 @@
+@import "tailwindcss";
+:root {
+  color: white;
+}
+
+*{
+
+  box-sizing:border-box;
+}
+
+body{
+  background-image:  url("./assets/klim-musalimov-rDMacl1FDjw-unsplash.jpg");
+}

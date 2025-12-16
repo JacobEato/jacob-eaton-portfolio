@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme {
+  --color-main: #111111;
+  --color-accent: #6100EF;
+}
+
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.btn-1{
+  color: white;
+  background-color: #6100EF;
+  border-radius: 15px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.btn-2{
+  border: 2px solid white;
+  border-radius: 15px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.btn-1:hover, .btn-2:hover {
+  transform: scale(1.2) translateY(-5px);
+}
+
+nav a{
+  transition:0.2s ease-in-out;
+}
+nav a:hover {
+  color: #7008E7;
+  transform: scale(1.1) translateY(-3px);
+}
+
+input, textarea {
+  background-color: #1e1e1e;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+}
