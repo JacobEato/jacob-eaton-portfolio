@@ -10,7 +10,7 @@ function Hero(){
                     <p className="font-bold text-4xl lg:text-7xl">Hi, I'm <span className="text-accent">Jake</span></p>
                     <p className="w-full text-center text-4xl lg:text-6xl">software engineer and frontend developer</p>
                     <div className="mx-auto mt-10 grid grid-cols-2 gap-10 w-80 justify-items-center items-center">
-                        <a href="src\assets\Jacob_Eaton_Resume.pdf" target="_blank" className="btn-1 text-sm md:text-lg px-4 py-2">My Resume</a>
+                        <a href="/Jacob_Eaton_Resume.pdf" target="_blank" className="btn-1 text-sm md:text-lg px-4 py-2">My Resume</a>
                         <a href="#contact" className="btn-2 text-sm md:text-lg px-4 py-2 ">Contact Me</a>
                     </div>
                 </div>
