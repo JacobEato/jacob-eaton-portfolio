@@ -4,7 +4,7 @@ This is my personal portfolio website built to showcase some of my software engi
 
 ## Link to Portfolio Website
 
-jake-eaton.com
+[jake-eaton.com](https://jake-eaton.com)
 
 ## Tech Stack
 

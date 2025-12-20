@@ -33,7 +33,7 @@ function Contact(){
                 <div >
                     <h2 className="font-bold text-3xl">Get in Touch</h2>
                     <hr className="my-5"/>
-                    <p className="text-2xl">Id love to hear from you!</p>
+                    <p className="text-2xl">I'd love to hear from you!</p>
                     
                     <p className="mt-10">jacob.eaton775@gmail.com</p>
                     
